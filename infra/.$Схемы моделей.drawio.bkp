@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Страница — 1" id="dBIbaUmQQZ0E8XPP-EFa">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Услуги&lt;/font&gt;&lt;div&gt;1. Наименование услуги&lt;/div&gt;&lt;div&gt;2. Цена услуги за час&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="300" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="x26mdZUNVPe-a8z6YN9T-2" target="x26mdZUNVPe-a8z6YN9T-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="160" />
+              <mxPoint x="330" y="61" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="x26mdZUNVPe-a8z6YN9T-2" target="x26mdZUNVPe-a8z6YN9T-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="160" />
+              <mxPoint x="345" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Юзеры&lt;/font&gt;&lt;div&gt;1. Имя&lt;/div&gt;&lt;div&gt;2. Телефон&lt;/div&gt;&lt;div&gt;3. Email&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Отзывы&lt;/font&gt;&lt;div&gt;1. Услуга&lt;/div&gt;&lt;div&gt;2.Имя юзера&lt;/div&gt;&lt;div&gt;3. Дата и время оказания услуги&lt;/div&gt;&lt;div&gt;4. Дата и время отзыва&lt;/div&gt;&lt;div&gt;5. Комментарий&lt;/div&gt;&lt;div&gt;6. Телефон (виден только админу)&lt;/div&gt;&lt;div&gt;7. Email (виден только админу)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="222.5" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Запись&lt;/font&gt;&lt;div&gt;1. Имя юзера&lt;/div&gt;&lt;div&gt;2. Наименование услуги&lt;/div&gt;&lt;div&gt;3. Стоимость услуги&lt;/div&gt;&lt;div&gt;4. Дата резерва&lt;/div&gt;&lt;div&gt;5. Время с которого зарезервировано&lt;/div&gt;&lt;div&gt;6. Время по которое зарезервировано&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="120" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Зарезервировано&lt;/font&gt;&lt;div&gt;1. Имя юзера&lt;/div&gt;&lt;div&gt;2. Дата резерва&lt;/div&gt;&lt;div&gt;3. Время с которого зарезервировано&lt;/div&gt;&lt;div&gt;4. Время по которое зарезервировано&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="20" width="170" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x26mdZUNVPe-a8z6YN9T-1" target="x26mdZUNVPe-a8z6YN9T-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="335" />
+              <mxPoint x="360" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="180" />
+              <mxPoint x="330" y="180" />
+              <mxPoint x="330" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="x26mdZUNVPe-a8z6YN9T-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="420" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="190" />
+              <mxPoint x="310" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x26mdZUNVPe-a8z6YN9T-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x26mdZUNVPe-a8z6YN9T-1" target="x26mdZUNVPe-a8z6YN9T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
